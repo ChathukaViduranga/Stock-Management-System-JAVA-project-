@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+/Users/chathukaviduranga/Documents/StockManagementSystem/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2677138764.index
+2814869956.index
+3202039648.index
+1354484126.index
+1013807877.index
+1304295715.index
+4282054795.index

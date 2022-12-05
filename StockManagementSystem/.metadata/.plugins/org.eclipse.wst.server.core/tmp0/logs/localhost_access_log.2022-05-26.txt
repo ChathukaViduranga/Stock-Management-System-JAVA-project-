@@ -1,0 +1,17 @@
+127.0.0.1 - - [26/May/2022:20:53:15 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [26/May/2022:20:53:15 +0530] "GET /StockManagementSystem/userLogin.jsp HTTP/1.1" 200 1653
+0:0:0:0:0:0:0:1 - - [26/May/2022:20:53:15 +0530] "GET /StockManagementSystem/images/profile.png HTTP/1.1" 200 64233
+0:0:0:0:0:0:0:1 - - [26/May/2022:20:53:15 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [26/May/2022:20:57:36 +0530] "POST /StockManagementSystem/login HTTP/1.1" 200 13545
+0:0:0:0:0:0:0:1 - - [26/May/2022:20:57:36 +0530] "GET /StockManagementSystem/vendor/fontawesome-free/css/all.min.css HTTP/1.1" 200 59344
+0:0:0:0:0:0:0:1 - - [26/May/2022:20:57:36 +0530] "GET /StockManagementSystem/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 84378
+0:0:0:0:0:0:0:1 - - [26/May/2022:20:57:36 +0530] "GET /StockManagementSystem/css/sb-admin-2.min.css HTTP/1.1" 200 170737
+0:0:0:0:0:0:0:1 - - [26/May/2022:20:57:36 +0530] "GET /StockManagementSystem/vendor/jquery-easing/jquery.easing.min.js HTTP/1.1" 200 2532
+0:0:0:0:0:0:0:1 - - [26/May/2022:20:57:36 +0530] "GET /StockManagementSystem/vendor/jquery/jquery.min.js HTTP/1.1" 200 89501
+0:0:0:0:0:0:0:1 - - [26/May/2022:20:57:36 +0530] "GET /StockManagementSystem/img/undraw_profile.svg HTTP/1.1" 200 2820
+0:0:0:0:0:0:0:1 - - [26/May/2022:20:57:36 +0530] "GET /StockManagementSystem/js/sb-admin-2.min.js HTTP/1.1" 200 1265
+0:0:0:0:0:0:0:1 - - [26/May/2022:20:57:36 +0530] "GET /StockManagementSystem/js/demo/chart-pie-demo.js HTTP/1.1" 200 1057
+0:0:0:0:0:0:0:1 - - [26/May/2022:20:57:36 +0530] "GET /StockManagementSystem/vendor/chart.js/Chart.min.js HTTP/1.1" 200 173077
+0:0:0:0:0:0:0:1 - - [26/May/2022:20:57:36 +0530] "GET /StockManagementSystem/js/demo/chart-area-demo.js HTTP/1.1" 200 3569
+0:0:0:0:0:0:0:1 - - [26/May/2022:20:57:36 +0530] "GET /StockManagementSystem/vendor/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 78196
+0:0:0:0:0:0:0:1 - - [26/May/2022:20:57:50 +0530] "POST /StockManagementSystem/warehouse HTTP/1.1" 200 9234
